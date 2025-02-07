@@ -1,5 +1,9 @@
 ## Hi there 👋
 I'm Vinay
+- 🔭 I’m currently working on app dev
+- 🌱 I’m currently learning game dev
+- 👯 I’m looking to collaborate on app/game dev projects
+- 📫 How to reach me: akcreations470@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykpro&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
